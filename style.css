@@ -26,6 +26,14 @@ margin-left: 50px;
 margin-bottom: 300px;
 }
 
+.img{
+margin-left: 10px;
+margin-bottom: 10px;
+}
+
+.div{
+float: left;
+}
 
 .page-header {
   margin: 0 0 10px;
@@ -35,18 +43,8 @@ margin-bottom: 300px;
   color: #ffffff;
 }
 
-.button {
-  padding: 6px 20px;
-  display: inline-block;
-  vertical-align: baseline;
-  text-decoration: none;
-  text-transform: uppercase;
-  border-radius: 4px;
-  background-color: #288be6;
-  color: #ffffff;
-}
-
 .page-footer {
+  margin-top: 200;
   padding: 40px 0;
   background-color: #00417d;
   color: #ffffff;
